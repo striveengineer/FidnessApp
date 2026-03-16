@@ -20,7 +20,7 @@ Se uso:
 * Interfaz grafica con JFrame (Swing)
 
 Notas:
-
+* Para iniciar: darle run a ServiroRutinas.java y luego a LoginGUI.java
 * El login es simulado para efectos del avance
 * La exportacion genera un archivo rutina.txt
 * La interfaz se hizo manualmente sin diseñador
